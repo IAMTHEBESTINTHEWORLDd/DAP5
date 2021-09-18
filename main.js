@@ -11,7 +11,7 @@ function apply_filter(){
 }
 
 function draw(){
-image(chimera,0,0,400,300);
+image(chimera,50,50,300,200);
 tint(tint_color);
 fill(0,150,255);
 circle(25,25,50);
